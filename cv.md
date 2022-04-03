@@ -11,4 +11,19 @@
 ## Brief information about myself:
 I really like creating website layout, thinking over the general structure of HTML markup, styling elements, adding interactivity to website interfaces, programming and constantly learning something new and improving my skills in web development.
 
-My strengths: communicable, teamwork, hardworking, punctual, easily trained, responsible, purposeful
+## Skills:
+* HTML5, CSS3
+* SASS / SCSS
+* JavaScript basics
+* Git, GitHub basics
+* VS Code
+* Figma
+
+## Strengths:
+* communicable
+* Teamwork
+* Hardworking
+* Punctual
+* Easily trained
+* Responsible
+* Purposeful
